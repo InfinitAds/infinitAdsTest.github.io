@@ -13,7 +13,7 @@
 /* Header */
 
 	#header {
-		width: 21em;
+		width: 20em;
 	}
 
 		#header > header {
@@ -27,7 +27,7 @@
 /* Wrapper */
 
 	#wrapper {
-		padding-right: 21em;
+		padding-right: 10em;
 	}
 
 /* Main */

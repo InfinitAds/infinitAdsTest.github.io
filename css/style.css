@@ -195,6 +195,7 @@
 	}
 
 	header.major h2 {
+		text-align: center;
 		color: #4acaa8;
 		font-size: 3.5em;
 	}
@@ -204,6 +205,7 @@
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
+		  line-height: 1.5em;
 		}
 
 /* Form */
